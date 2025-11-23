@@ -43,7 +43,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/stel beach mic.svg
+      url: /images/higer ground afb 1.JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
