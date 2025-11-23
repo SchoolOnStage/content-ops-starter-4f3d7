@@ -52,7 +52,7 @@ sections:
           margin:
             - mb-8
     badge:
-      label: welkom bij de
+      label: welkom bij
       color: text-primary
       type: Badge
     elementId: ''
