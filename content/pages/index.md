@@ -8,10 +8,21 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: als praten moeilijk is
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Laat een document achter voor uw nabestaanden. Een levend tastbaar
+      document wat
+
+      eindeloos beluisterd kan worden. Een vereeuwiging van alles wat u gedeeld
+      hebt
+
+      en achterlaat voor de volgende generatie
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
