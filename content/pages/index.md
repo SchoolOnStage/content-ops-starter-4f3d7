@@ -47,6 +47,10 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          margin:
+            - mb-8
     badge:
       label: welkom bij de
       color: text-primary
