@@ -106,7 +106,7 @@ sections:
       - title: 20x
         subtitle: The Job Stuff
         text: |
-          Radio maker en presentator
+          Producer en musicus
         image:
           url: /images/marco .jpg
           altText: Featured icon two
