@@ -387,11 +387,25 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Samen maken wij een pad naar
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+
+
+
+      Laat een document achter voor uw nabestaanden. Een levend tastbaar
+      document wat
+
+      eindeloos beluisterd kan worden. Een vereeuwiging van alles wat u gedeeld
+      hebt
+
+      en achterlaat voor de volgende generatie
+
+
+
+
+
+
+
     media:
       fields:
         - name: name
