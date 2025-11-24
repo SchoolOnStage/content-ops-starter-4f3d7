@@ -80,7 +80,7 @@ sections:
         title: Radio maker & presentator
         subtitle: ''
         text: |
-          radio maker en presentator
+          radio maker en presentator bij de lokale omroep
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
