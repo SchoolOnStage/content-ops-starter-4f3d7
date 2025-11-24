@@ -77,7 +77,7 @@ sections:
     subtitle: Interviewer
     items:
       - type: FeaturedItem
-        title: radio maker & presentator
+        title: Radio maker & presentator
         subtitle: ''
         text: |
           radio maker en presentator
