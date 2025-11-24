@@ -126,7 +126,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: warme stem
+      - title: Warme stem
         subtitle: ''
         text: |
           Invoelend en discreet. Een stem van vertrouwen
