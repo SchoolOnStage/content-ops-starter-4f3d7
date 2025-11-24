@@ -77,7 +77,7 @@ sections:
     subtitle: Interviewer
     items:
       - type: FeaturedItem
-        title: 500k
+        title: radio maker & presentator
         subtitle: Numbers Done
         text: |
           radio maker en presentator
