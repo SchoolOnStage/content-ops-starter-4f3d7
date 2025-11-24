@@ -80,7 +80,7 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: |
-          ervaren  coach en  docent 
+          radio maker en presentator
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
