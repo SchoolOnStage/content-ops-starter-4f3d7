@@ -127,7 +127,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Communicator
-        subtitle: Faster
+        subtitle: ''
         text: |
           Invoelend en discreet. Een stem van vertrouwen
         image:
