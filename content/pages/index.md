@@ -126,7 +126,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Communicator
         subtitle: Faster
         text: |
           Invoelend en discreet. Een stem van vertrouwen
