@@ -7,7 +7,7 @@ sections:
       text: Afscheid Podcast
       color: text-dark
       type: TitleBlock
-    subtitle: als praten moeilijk is
+    subtitle: '"als praten moeilijk is"'
     text: >+
       Laat een document achter voor uw nabestaanden. Een levend tastbaar
       document wat
