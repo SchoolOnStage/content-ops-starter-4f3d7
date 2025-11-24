@@ -103,7 +103,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Producer & musicus
         subtitle: The Job Stuff
         text: |
           Producer en musicus
