@@ -78,7 +78,7 @@ sections:
     items:
       - type: FeaturedItem
         title: radio maker & presentator
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           radio maker en presentator
         actions: []
