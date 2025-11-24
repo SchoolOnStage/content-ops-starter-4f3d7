@@ -106,7 +106,7 @@ sections:
       - title: Producer & musicus
         subtitle: ''
         text: |
-          Producer en musicus
+          Na het conservatorium al 25 jaar in het vak
         image:
           url: /images/marco .jpg
           altText: Featured icon two
