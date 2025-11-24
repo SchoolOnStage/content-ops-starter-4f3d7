@@ -108,7 +108,7 @@ sections:
         text: |
           Radio maker en presentator
         image:
-          url: /images/icon2.svg
+          url: /images/marco .jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
