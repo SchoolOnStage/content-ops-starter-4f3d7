@@ -131,7 +131,7 @@ sections:
         text: |
           Invoelend en discreet. Een stem van vertrouwen
         image:
-          url: /images/icon3.svg
+          url: /images/promo foto hktod (1).jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
