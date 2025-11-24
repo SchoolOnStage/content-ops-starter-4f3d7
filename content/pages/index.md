@@ -386,7 +386,7 @@ sections:
       text: Voor iedere vraag
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Samen maken wij een pad naar
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
