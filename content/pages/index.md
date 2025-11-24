@@ -104,7 +104,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Producer & musicus
-        subtitle: The Job Stuff
+        subtitle: ''
         text: |
           Producer en musicus
         image:
