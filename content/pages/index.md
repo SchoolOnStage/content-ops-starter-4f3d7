@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Afscheid Podcast.nl
+      text: Afscheid Podcast
       color: text-dark
       type: TitleBlock
     subtitle: als praten moeilijk is
