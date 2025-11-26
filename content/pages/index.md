@@ -247,7 +247,7 @@ sections:
           button {            padding: 10px 20px;            font-size:
           16px;            cursor: pointer;        }    </style></head><body>   
           <h2>Neem contact met mij op</h2>    <a
-          href="mailto:jouw@emailadres.nl">        <button>Stuur mij een
+          href="mailto:marcotenkink@gmail.com">        <button>Stuur mij een
           e-mail</button>    </a></body></html>
     badge:
       label: maak contact
