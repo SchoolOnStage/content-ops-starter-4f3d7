@@ -194,10 +194,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Samen maken wij een pad naar
-    text: >
-      Laat een document achter voor uw nabestaanden. Een levend tastbaar
-      document wat
-
+    text: >2
+       Een levend tastbaar document wat
       eindeloos beluisterd kan worden. Laat uw bericht hier achter. Marco neemt
       zo snel mogelijk contact met u op
     media:
