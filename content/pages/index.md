@@ -240,7 +240,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: >-
+          <!DOCTYPE html><html lang="nl"><head>    <meta charset="UTF-8">   
+          <meta name="viewport" content="width=device-width,
+          initial-scale=1.0">    <title>E-mail Button</title>    <style>       
+          button {            padding: 10px 20px;            font-size:
+          16px;            cursor: pointer;        }    </style></head><body>   
+          <h2>Neem contact met mij op</h2>    <a
+          href="mailto:jouw@emailadres.nl">        <button>Stuur mij een
+          e-mail</button>    </a></body></html>
     badge:
       label: maak contact
       color: text-primary
