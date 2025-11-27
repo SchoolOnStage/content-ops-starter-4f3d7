@@ -35,6 +35,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: privacy verklaring
+      color: text-primary
 slug: /privacy
 isDraft: false
 seo:
