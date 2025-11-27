@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: privacy verklaring
         tagline: This is the tagline
-        subtitle: de privacy verklaring van afscheidpodcast.nl
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
