@@ -91,10 +91,8 @@ type: PostLayout
 
 
 
-In uw hospice doen de medewerkers hun uiterste best uw verblijf zo aangenaam mogelijk
-te maken. Onze diensten sluiten daar naadloos bij aan. Het opnemen van het
-interview is door de moderne kleine installatie niet storend aanwezig. En u
-kunt met ons afspreken 24 uur per dag wanneer u er aan toe bent
+Als u in een zorginstelling woont maken wij graag een afspraak die uitkomt voor u uw naasten en
+de medewerkers. 
 
 
 
