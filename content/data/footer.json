@@ -4,32 +4,17 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "communicatie\n",
+    "text": "email naar marcotenkink\\@gmail.com\n",
     "secondaryLinks": {
         "title": "MarkOnStage.biz",
         "links": [],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/marcotenkink@gmail.com",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Privacy",
-            "url": "/",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
