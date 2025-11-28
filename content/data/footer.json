@@ -10,14 +10,7 @@
         "links": [],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/marcotenkink@gmail.com",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Privacy",
