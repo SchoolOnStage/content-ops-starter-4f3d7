@@ -2,9 +2,7 @@
 type: PostLayout
 title: privacy verklaring
 date: '2025-11-28'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   altText: Thumbnail
