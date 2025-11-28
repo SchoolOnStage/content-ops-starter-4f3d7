@@ -38,7 +38,7 @@ sections:
       label: privacy verklaring
       color: text-primary
 slug: /privacy
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
