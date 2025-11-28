@@ -22,7 +22,7 @@
         },
         {
             "label": "Wie is Marco",
-            "altText": "Wie is Marco",
+            "altText": "",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
