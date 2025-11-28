@@ -32,7 +32,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: privacy verklaring
       color: text-dark
       styles:
         self:
