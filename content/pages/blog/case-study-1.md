@@ -22,7 +22,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: afscheidpodcast.nl
         tagline: This is the tagline
         subtitle: ''
         image:
