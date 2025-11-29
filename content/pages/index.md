@@ -77,7 +77,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Afbeelding1.jpg
+          url: /images/higer ground afb 1.JPG
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -104,7 +104,7 @@ sections:
           u belangrijk vind
         image:
           type: ImageBlock
-          url: /images/marco .jpg
+          url: /images/podcast levensboek mannen.jpg
           altText: Featured icon two
           elementId: ''
         actions: []
