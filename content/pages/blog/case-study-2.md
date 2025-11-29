@@ -26,14 +26,11 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+      - title: Afscheidpodcast.nl
+        tagline: ''
+        subtitle: ''
         image:
-          url: /images/telus-logo.svg
+          url: /images/logo afscheidpodcast.jpg
           altText: Company logo
           styles:
             self:
