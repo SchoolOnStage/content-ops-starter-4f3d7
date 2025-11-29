@@ -142,7 +142,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/promo foto hktod (1).jpg
+          url: /images/podcast het levensboek.jpg
           altText: Featured icon three
           elementId: ''
         actions: []
