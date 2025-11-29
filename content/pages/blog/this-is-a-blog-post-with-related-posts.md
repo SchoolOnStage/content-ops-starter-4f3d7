@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: als levende herinnering
 date: '2025-11-28'
 excerpt: ''
 featuredImage:
