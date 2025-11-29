@@ -50,6 +50,154 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: herinnering
+        subtitle: ''
+        text: >+
+
+
+
+
+          In het rouwen is de behoefte om nog een keer de nabestaande te horen
+          een sterk middel om het verdriet en gemis te verzachten
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/Afbeelding1.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: onbevangen vertellen
+        subtitle: ''
+        text: >
+          Met invoelendheid en respect gaat Marco met u het gesprek aan over wat
+          u belangrijk vind
+        image:
+          type: ImageBlock
+          url: /images/marco .jpg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: document voor het leven
+        subtitle: ''
+        text: >+
+
+
+
+
+          Ook voor de nabestaanden is het fijn om de levende stem van de
+          afscheid nemende te kunnen
+
+          horen. Een (vocale) arm om de schouder, een moment van berusting met
+          de stem van uw dierbare. 
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/promo foto hktod (1).jpg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: waarom een afscheid podcast
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: false
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+  - type: FeaturedItemsSection
+    title:
       text: Podcast maker
       color: text-dark
       styles:
@@ -150,25 +298,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: false
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
