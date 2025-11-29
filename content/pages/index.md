@@ -131,7 +131,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Marco Tenkink
+      label: waarom een afscheid podcast
       color: text-primary
       styles:
         self:
