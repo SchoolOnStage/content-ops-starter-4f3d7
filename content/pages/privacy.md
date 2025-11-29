@@ -3,7 +3,7 @@ type: PageLayout
 title: privacy verklaring
 sections: []
 slug: /privacy
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
