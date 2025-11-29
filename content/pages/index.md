@@ -97,7 +97,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Producer & musicus
+        title: onbevangen vertellen
         subtitle: ''
         text: |
           Na het conservatorium al 25 jaar in het vak
