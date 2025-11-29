@@ -59,7 +59,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Radio maker & presentator
+        title: herinnering
         subtitle: ''
         text: |
           radio maker en presentator bij de lokale omroep
