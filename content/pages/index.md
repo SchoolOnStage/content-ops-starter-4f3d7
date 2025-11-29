@@ -99,8 +99,9 @@ sections:
       - type: FeaturedItem
         title: onbevangen vertellen
         subtitle: ''
-        text: |
-          Na het conservatorium al 25 jaar in het vak
+        text: >
+          Met invoelendheid en respect gaat Marco met u het gesprek aan over wat
+          u belangrijk vind
         image:
           type: ImageBlock
           url: /images/marco .jpg
