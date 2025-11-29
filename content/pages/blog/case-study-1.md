@@ -22,7 +22,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: afscheidpodcast.nl
+      - title: Afscheidpodcast.nl
         tagline: ''
         subtitle: ''
         image:
