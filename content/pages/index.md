@@ -121,7 +121,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Warme stem
+        title: document voor het leven
         subtitle: ''
         text: |
           Invoelend en discreet. Een stem van vertrouwen
