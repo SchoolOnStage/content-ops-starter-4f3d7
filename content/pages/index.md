@@ -48,6 +48,107 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Podcast maker
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Interviewer
+    items:
+      - type: FeaturedItem
+        title: Radio maker & presentator
+        subtitle: ''
+        text: |
+          radio maker en presentator bij de lokale omroep
+        image:
+          type: ImageBlock
+          url: /images/Afbeelding1.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Producer & musicus
+        subtitle: ''
+        text: |
+          Na het conservatorium al 25 jaar in het vak
+        image:
+          type: ImageBlock
+          url: /images/marco .jpg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Warme stem
+        subtitle: ''
+        text: |
+          Invoelend en discreet. Een stem van vertrouwen
+        image:
+          type: ImageBlock
+          url: /images/promo foto hktod (1).jpg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    badge:
+      type: Badge
+      label: Marco Tenkink
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
