@@ -51,7 +51,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Podcast maker
+      text: ''
       color: text-dark
       styles:
         self:
