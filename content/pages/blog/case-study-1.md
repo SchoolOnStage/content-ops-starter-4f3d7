@@ -26,7 +26,7 @@ bottomSections:
         tagline: This is the tagline
         subtitle: ''
         image:
-          url: /images/telus-logo.svg
+          url: /images/logo afscheidpodcast.jpg
           altText: Company logo
           styles:
             self:
