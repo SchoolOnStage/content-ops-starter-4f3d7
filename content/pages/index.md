@@ -61,8 +61,20 @@ sections:
       - type: FeaturedItem
         title: herinnering
         subtitle: ''
-        text: |
-          radio maker en presentator bij de lokale omroep
+        text: >+
+
+
+
+
+          In het rouwen is de behoefte om nog een keer de nabestaande te horen
+          een sterk middel om het verdriet en gemis te verzachten
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Afbeelding1.jpg
