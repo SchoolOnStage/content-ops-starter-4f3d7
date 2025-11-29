@@ -56,7 +56,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Interviewer
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Radio maker & presentator
