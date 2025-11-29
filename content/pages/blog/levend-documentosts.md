@@ -46,7 +46,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: this-is-a-blog-post-with-related-posts
+slug: levend documentosts
 isFeatured: false
 isDraft: false
 seo:
