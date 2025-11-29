@@ -77,7 +77,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/higer ground afb 1.JPG
+          url: /images/pocast levensboek jong female.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
