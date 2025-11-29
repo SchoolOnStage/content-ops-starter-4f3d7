@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Afscheidpodcast.nl
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         image:
           url: /images/logo afscheidpodcast.jpg
