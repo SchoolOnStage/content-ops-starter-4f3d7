@@ -1,5 +1,5 @@
 ---
-title: In uw instellig
+title: In uw zorginstellig
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
