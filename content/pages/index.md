@@ -123,8 +123,23 @@ sections:
       - type: FeaturedItem
         title: document voor het leven
         subtitle: ''
-        text: |
-          Invoelend en discreet. Een stem van vertrouwen
+        text: >+
+
+
+
+
+          Ook voor de nabestaanden is het fijn om de levende stem van de
+          afscheid nemende te kunnen
+
+          horen. Een (vocale) arm om de schouder, een moment van berusting met
+          de stem van uw dierbare. 
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/promo foto hktod (1).jpg
