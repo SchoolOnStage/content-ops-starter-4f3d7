@@ -8,7 +8,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/logo afscheidpodcast 60 px.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
