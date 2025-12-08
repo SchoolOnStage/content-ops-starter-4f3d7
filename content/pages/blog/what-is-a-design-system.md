@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Hoelang duurt het opnemen en waar moet ik rekening mee houden?
+title: Zijn er veel spullen nodig voor deopname?
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
