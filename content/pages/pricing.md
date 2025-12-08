@@ -3,7 +3,7 @@ title: Hoe gaat een opname
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: de podcast opname
       color: text-dark
       styles:
         self:
