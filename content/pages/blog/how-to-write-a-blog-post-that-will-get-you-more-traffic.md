@@ -5,7 +5,7 @@ title: |-
   afgenomen
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: ''
+excerpt: tttttttt
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
