@@ -1,13 +1,23 @@
 ---
-title: Surround Yourself With the Right People
+title: Hoe verloop zo een interview
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
 excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges, risks, and countless decisions that can make or break your startup. One of the most critical decisions you'll make isn’t about your product or market—it's about the people you surround yourself with.
+  De microfoon wordt opgesteld en wij maken een beetje kennis. Marco stelt u op
+  uw gemak. Als de opname loopt stelt Marco de eerste vraag. Denk dan aan een
+  opening vraag als: “u woont hier mooi, bent u ook hier geboren?” Vervolgens
+  bespreken wij, in ongeveer anderhalf uur stap voor stap uw geschiedenis. Waar
+  was uw ouderlijk huis? Hoe was u als kind? Waar droomde u vroeger van? Hoe
+  heeft u uw partner ontmoet? Hoe ging dat? Marco helpt u om uw levensverhaal te
+  vertellen, van geboorte tot nu. Het wordt een gesprek met veel mooie en leuke
+  herinneringen en er is ruimte voor emotionele onderwerpen zoals wat waren
+  gebeurtenissen die u bij zijn gebleven, hoe is uw band sterker geworden met uw
+  naasten of wat heeft u daarin gemist. Wilt u terug komen op zaken die u gezegd
+  heeft dan kan dat. Marco haalt deze er dan in de nabewerking weer uit de
+  opname
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/abstract-feature1.svg
   styles:
     self:
       borderRadius: medium
@@ -18,7 +28,6 @@ seo:
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
-author: content/data/person1.json
 styles:
   self:
     flexDirection: col

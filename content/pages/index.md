@@ -204,11 +204,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -235,17 +231,16 @@ sections:
         self:
           textAlign: center
     posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
+      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/surround-yourself-with-right-people.md
+      - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
     actions: []
     elementId: ''
-    variant: small-list
+    variant: three-col-grid
     colors: bg-light-fg-dark
     hoverEffect: thin-underline
     styles:
