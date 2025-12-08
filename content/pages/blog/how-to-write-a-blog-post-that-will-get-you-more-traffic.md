@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: Als ik mij niet goed voel
+title: |-
+  Liedjes en quote, s t.b.v.
+  de podcast
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
