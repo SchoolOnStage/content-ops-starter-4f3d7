@@ -6,8 +6,7 @@ slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut qui!
 seo:
   metaTitle: Top 20 Ways to Save Time at Work This Year
   metaDescription: You can add the excerpt and main keywords of your blog post here.
