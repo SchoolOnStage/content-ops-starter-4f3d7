@@ -199,7 +199,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Hoe gaat een afscheidpodcast in zijn werk
       color: text-dark
       styles:
         self:
