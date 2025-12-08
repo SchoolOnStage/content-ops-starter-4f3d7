@@ -5,7 +5,12 @@ title: |-
   afgenomen
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: tttttttt
+excerpt: |-
+  Op de afgesproken dag
+  komt Marco bij u langs. Dat kan thuis of bij de instelling waar u woont. Ook
+  komt Marco langs als u in een verzorgingstehuis of hospice verblijft. Wij
+  zoeken samen een rustige plek uit voor het gesprek, een plek waar je rustig
+  gaat zitten of liggen en waar u zich comfortabel voelt.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
