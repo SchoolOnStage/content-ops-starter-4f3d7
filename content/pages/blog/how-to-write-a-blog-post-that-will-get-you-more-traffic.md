@@ -1,8 +1,6 @@
 ---
 type: PostLayout
-title: |-
-  Waar wordt het interview
-  afgenomen
+title: Alleen of het interview met iemand samen
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: |-
