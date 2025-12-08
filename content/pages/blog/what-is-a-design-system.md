@@ -3,7 +3,9 @@ type: PostLayout
 title: Zijn er veel spullen nodig voor deopname?
 slug: what-is-a-design-system
 date: '2023-02-14'
-excerpt: ''
+excerpt: >-
+  De gebruikte apparatuur (microfoon kabel en opname apparaat) is klein en
+  onopvallend. Er komt geen vracht apparatuur uw kamer binnen
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
