@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Zijn er veel spullen nodig voor deopname?
+title: Zijn er veel spullen nodig voor de opname?
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
