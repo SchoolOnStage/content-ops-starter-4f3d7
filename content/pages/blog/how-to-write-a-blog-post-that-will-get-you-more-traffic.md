@@ -5,10 +5,7 @@ title: |-
   de podcast
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: >-
-  Als u zich niet goed voelt op de opname dag dan kan u dat aangeven en zal de
-  afspraak verplaatst worden. Belangrijk is het dat u voldoende energie heeft om
-  een gesprek te voeren
+excerpt: ''
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
