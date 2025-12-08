@@ -1,12 +1,17 @@
 ---
 type: PostLayout
-title: Als ik mij niet goed voel
+title: |-
+  Liedjes en quote, s t.b.v.
+  de podcast
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
-  Als u zich niet goed voelt op de opname dag dan kan u dat aangeven en zal de
-  afspraak verplaatst worden. Belangrijk is het dat u voldoende energie heeft om
-  een gesprek te voeren
+  Het toevoegen van liedjes uit uw verleden versterkt het verhaal wat u vertelt.
+  Behalve muziek zijn ook quotes van mensen die u bij zijn gebleven als Martin
+  Luther King “I have a dream” of Johan Kruiff “elk nadeel heb z’n voordeel” zo
+  verrijken wij uw verteld verhaal en maken de herinnering aan wie u was nog
+  sterker. Daarvoor kunt een lijstje maken die u het liefst van tevoren met een
+  naaste opstelt en met afscheidpodcast.nl deelt. Dat mag via de mail
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
