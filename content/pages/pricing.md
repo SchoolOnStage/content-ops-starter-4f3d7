@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Hoe gaat een afscheid podcast opname in zijn werk
     plans:
       - title: Developers
         price: Free
