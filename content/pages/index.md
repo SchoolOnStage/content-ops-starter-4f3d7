@@ -412,57 +412,6 @@ sections:
        Een levend tastbaar document wat
       eindeloos beluisterd kan worden. Laat uw bericht hier achter. Marco neemt
       zo snel mogelijk contact met u op
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: >-
-          <!DOCTYPE html><html lang="nl"><head>    <meta charset="UTF-8">   
-          <meta name="viewport" content="width=device-width,
-          initial-scale=1.0">    <title>E-mail Button</title>    <style>       
-          button {            padding: 10px 20px;            font-size:
-          16px;            cursor: pointer;        }    </style></head><body>   
-          <h2>Neem contact met mij op</h2>    <a
-          href="mailto:marcotenkink@gmail.com">        <button>Stuur mij een
-          e-mail</button>    </a></body></html>
     badge:
       label: maak contact
       color: text-primary
