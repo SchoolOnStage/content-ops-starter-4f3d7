@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: How to Write a Blog Post That Will Get You More Traffic
+title: |-
+  Waar wordt het interview
+  afgenomen
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
