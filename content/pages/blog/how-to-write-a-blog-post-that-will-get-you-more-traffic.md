@@ -3,7 +3,10 @@ type: PostLayout
 title: Als ik mij niet goed voel
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: ''
+excerpt: >-
+  Als u zich niet goed voelt op de opname dag dan kan u dat aangeven en zal de
+  afspraak verplaatst worden. Belangrijk is het dat u voldoende energie heeft om
+  een gesprek te voeren
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
