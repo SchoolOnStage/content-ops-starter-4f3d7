@@ -5,7 +5,13 @@ title: |-
   de podcast
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: ''
+excerpt: >-
+  Het toevoegen van liedjes uit uw verleden versterkt het verhaal wat u vertelt.
+  Behalve muziek zijn ook quotes van mensen die u bij zijn gebleven als Martin
+  Luther King “I have a dream” of Johan Kruiff “elk nadeel heb z’n voordeel” zo
+  verrijken wij uw verteld verhaal en maken de herinnering aan wie u was nog
+  sterker. Daarvoor kunt een lijstje maken die u het liefst van tevoren met een
+  naaste opstelt en met afscheidpodcast.nl deelt. Dat mag via de mail
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
