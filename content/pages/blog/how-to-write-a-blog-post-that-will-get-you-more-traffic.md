@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Alleen of het interview met iemand samen
+title: Als ik mij niet goed voel
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: |-
