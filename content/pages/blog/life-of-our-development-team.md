@@ -1,5 +1,7 @@
 ---
-title: A Day in the Life of Our Development Team
+title: |-
+  Waar wordt het interview
+  afgenomen
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
