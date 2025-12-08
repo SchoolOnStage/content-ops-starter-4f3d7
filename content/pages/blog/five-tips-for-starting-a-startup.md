@@ -2,7 +2,10 @@
 title: Wat als ik het er niet over wil hebben
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
-excerpt: D
+excerpt: |-
+  Als er onderwerpen zijn
+  waar u het niet over wilt hebben dan kunt u dat aangeven en zal het niet
+  besproken worden
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
