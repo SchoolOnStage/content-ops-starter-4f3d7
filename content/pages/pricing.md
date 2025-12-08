@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Hoe gaat een opname
 slug: pricing
 sections:
   - title:
