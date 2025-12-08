@@ -1,5 +1,7 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: |-
+  Hoelang duurt het opnemen
+  en waar moet ik rekening mee houden?
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
