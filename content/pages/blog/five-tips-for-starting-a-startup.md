@@ -1,13 +1,21 @@
 ---
-title: 5 Tips for Starting a Startup
+title: Hoe verloop zo een interview?
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  De microfoon wordt opgesteld en wij maken een beetje kennis. Marco stelt u op
+  uw gemak. Als de opname loopt stelt Marco de eerste vraag. Denk dan aan een
+  opening vraag als: “u woont hier mooi, bent u ook hier geboren?” Vervolgens
+  bespreken wij, in ongeveer anderhalf uur stap voor stap uw geschiedenis. Waar
+  was uw ouderlijk huis? Hoe was u als kind? Waar droomde u vroeger van? Hoe
+  heeft u uw partner ontmoet? Hoe ging dat? Marco helpt u om uw levensverhaal te
+  vertellen, van geboorte tot nu. Het wordt een gesprek met veel mooie en leuke
+  herinneringen en er is ruimte voor emotionele onderwerpen zoals wat waren
+  gebeurtenissen die u bij zijn gebleven, hoe is uw band sterker geworden met uw
+  naasten of wat heeft u daarin gemist. Wilt u terug komen op zaken die u gezegd
+  heeft dan kan dat. Marco haalt deze er dan in de nabewerking weer uit de
+  opname.
 featuredImage:
-  url: /images/abstract-feature1.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -25,7 +33,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
-author: content/data/person6.json
 type: PostLayout
 ---
 
