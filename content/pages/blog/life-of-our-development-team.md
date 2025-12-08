@@ -4,10 +4,12 @@ title: |-
   afgenomen
 slug: life-of-our-development-team
 date: '2025-01-15'
-excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+excerpt: |-
+  Op de afgesproken dag
+  komt Marco bij u langs. Dat kan thuis of bij de instelling waar u woont. Ook
+  komt Marco langs als u in een verzorgingstehuis of hospice verblijft. Wij
+  zoeken samen een rustige plek uit voor het gesprek, een plek waar je rustig
+  gaat zitten of liggen en waar u zich comfortabel voelt.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
