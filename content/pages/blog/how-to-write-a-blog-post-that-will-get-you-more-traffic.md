@@ -3,11 +3,7 @@ type: PostLayout
 title: Als ik mij niet goed voel
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: |-
-  U bepaalt hoe het gesprek
-  verloopt. Het beste werkt het als u ontspant en als dat beter gaat met de
-  interactie van iemand anders dan is dat prima. Soms kan die persoon u mooi
-  aanvullen, belangrijk is het dat u zich er prettig bij voelt
+excerpt: ''
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
