@@ -458,9 +458,9 @@ sections:
           borderWidth: 1
           borderRadius: large
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: afscheidpodcast.nl
+  metaDescription: u bent bij afscheidpodcast.nl
+  socialImage: /images/logo 300 px.jpg
   type: Seo
 type: PageLayout
 ---
