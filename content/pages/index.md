@@ -428,7 +428,7 @@ sections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Uw email adres
           isRequired: true
           width: full
         - type: TextareaFormControl
