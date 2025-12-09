@@ -437,6 +437,7 @@ sections:
           hideLabel: true
           placeholder: Uw bericht
           width: full
+          isRequired: true
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
