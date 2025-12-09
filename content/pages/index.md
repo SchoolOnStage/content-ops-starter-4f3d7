@@ -412,12 +412,51 @@ sections:
        Een levend tastbaar document wat
       eindeloos beluisterd kan worden. Laat uw bericht hier achter. Marco neemt
       zo snel mogelijk contact met u op
-    badge:
-      label: maak contact
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Uw naam
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Uw email adres
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Uw bericht
+          width: full
+          isRequired: true
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
