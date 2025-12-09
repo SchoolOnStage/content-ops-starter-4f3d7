@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "tarieven",
-            "url": "/pricing",
+            "url": "/privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
