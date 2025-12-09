@@ -412,10 +412,6 @@ sections:
        Een levend tastbaar document wat
       eindeloos beluisterd kan worden. Laat uw bericht hier achter. Marco neemt
       zo snel mogelijk contact met u op
-    badge:
-      label: maak contact
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
