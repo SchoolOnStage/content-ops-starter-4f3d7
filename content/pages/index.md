@@ -435,7 +435,7 @@ sections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Uw bericht
           width: full
       submitButton:
         type: SubmitButtonFormControl
