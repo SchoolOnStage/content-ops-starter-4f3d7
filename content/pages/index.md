@@ -460,7 +460,7 @@ sections:
 seo:
   metaTitle: afscheidpodcast.nl
   metaDescription: u bent bij afscheidpodcast.nl
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/logo 300 px.jpg
   type: Seo
 type: PageLayout
 ---
