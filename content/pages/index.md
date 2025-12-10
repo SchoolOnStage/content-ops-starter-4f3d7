@@ -416,5 +416,6 @@ sections:
     type: GenericSection
 seo:
   type: Seo
+  metaTitle: afscheidpodcast
 type: PageLayout
 ---
