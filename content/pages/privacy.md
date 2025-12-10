@@ -6,9 +6,10 @@ slug: /privacy
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Privacy
+  metaDescription: de privacy verklaring van afscheidpodcast.nl
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
-  metaTags: []
+  socialImage: /images/higer ground afb 1.JPG
+  metaTags:
+    - type: MetaTag
 ---
