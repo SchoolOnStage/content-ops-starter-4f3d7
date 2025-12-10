@@ -416,5 +416,7 @@ sections:
     type: GenericSection
 seo:
   type: Seo
+  metaTitle: afscheidpodcast
+  socialImage: /images/logo afscheidpodcast.jpg
 type: PageLayout
 ---
