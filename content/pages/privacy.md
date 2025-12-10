@@ -7,7 +7,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Privacy
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: de privacy verklaring van afscheidpodcast.nl
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
