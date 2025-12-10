@@ -415,9 +415,6 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: afscheidpodcast.nl
-  metaDescription: u bent bij afscheidpodcast.nl
-  socialImage: /images/logo 300 px.jpg
   type: Seo
 type: PageLayout
 ---
