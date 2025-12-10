@@ -9,6 +9,6 @@ seo:
   metaTitle: Privacy
   metaDescription: de privacy verklaring van afscheidpodcast.nl
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/higer ground afb 1.JPG
   metaTags: []
 ---
