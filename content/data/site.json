@@ -2,7 +2,7 @@
     "favicon": "/images/logo afscheidpodcast.jpg",
     "footer": "content/data/footer.json",
     "titleSuffix": "afscheidpodcast.nl",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/logo afscheidpodcast.jpg",
     "type": "Config",
     "header": "content/data/header.json"
 }
