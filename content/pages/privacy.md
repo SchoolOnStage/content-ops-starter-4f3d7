@@ -12,4 +12,5 @@ seo:
   socialImage: /images/higer ground afb 1.JPG
   metaTags:
     - type: MetaTag
+      content: /Privacy
 ---
