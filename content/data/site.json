@@ -4,5 +4,10 @@
     "titleSuffix": "afscheidpodcast.nl",
     "defaultSocialImage": "/images/logo afscheidpodcast.jpg",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag"
+        }
+    ]
 }
