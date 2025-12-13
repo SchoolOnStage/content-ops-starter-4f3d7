@@ -13,4 +13,5 @@ seo:
   metaTags:
     - type: MetaTag
       content: /Privacy
+      property: 'og:description'
 ---
