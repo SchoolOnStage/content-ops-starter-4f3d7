@@ -13,4 +13,5 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:url'
+      content: /Privacy
 ---
