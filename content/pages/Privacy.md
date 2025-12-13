@@ -2,7 +2,7 @@
 type: PageLayout
 title: privacy verklaring
 sections: []
-slug: /privacy
+slug: /Privacy
 isDraft: false
 seo:
   type: Seo
