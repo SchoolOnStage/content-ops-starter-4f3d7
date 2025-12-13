@@ -14,4 +14,5 @@ seo:
     - type: MetaTag
       content: /Privacy
       property: ''
+    - type: MetaTag
 ---
