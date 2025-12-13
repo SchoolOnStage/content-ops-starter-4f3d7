@@ -14,7 +14,7 @@
     "legalLinks": [
         {
             "label": "Privacy",
-            "url": "/Pivacy",
+            "url": "/pivacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
