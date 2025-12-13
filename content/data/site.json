@@ -5,5 +5,6 @@
     "defaultSocialImage": "/images/logo afscheidpodcast.jpg",
     "type": "Config",
     "header": "content/data/header.json",
-    "defaultMetaTags": []
+    "defaultMetaTags": [],
+    "enableAnnotations": true
 }
