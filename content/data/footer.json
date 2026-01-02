@@ -23,22 +23,5 @@
     ],
     "copyrightText": "Powered by Marco Tenkink\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer",
-    "primaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "Tarieven",
-        "links": [
-            {
-                "type": "Link",
-                "label": "klik hier",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "/tarieven"
-            }
-        ]
-    }
+    "type": "Footer"
 }
