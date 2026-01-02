@@ -37,7 +37,7 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "elementId": ""
+                "elementId": "/tarieven"
             },
             {
                 "type": "Link",
