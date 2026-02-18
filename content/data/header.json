@@ -11,16 +11,7 @@
         "type": "ImageBlock",
         "url": "/images/logo 50 px.jpg"
     },
-    "primaryLinks": [
-        {
-            "label": "tarieven",
-            "url": "/privacy",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
