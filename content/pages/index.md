@@ -404,7 +404,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Voor iedere vraag
+      text: 'Voor iedere vraag, mail naar;'
       color: text-dark
       type: TitleBlock
     subtitle: Samen maken wij een pad naar
